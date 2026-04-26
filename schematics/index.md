@@ -16,9 +16,8 @@
 
 配布なし
 
-### D-15-11 Rikka / 霙級駆逐艦 二番艦 六花
-
-- [六花](https://github.com/gJgDqVJrP7/wada-schematics/raw/refs/heads/main/schematics/D/D-15-11-Rikka.schematic)
+### 霙級駆逐艦
+- [二番艦 六花](https://github.com/gJgDqVJrP7/wada-schematics/raw/refs/heads/main/schematics/D/D-15-11-Rikka.schematic)
 
 ### C-15-12 Papyrus / つむぎ型巡洋艦
 
